@@ -1,5 +1,6 @@
 const theme = {
   colors: {
+    header: '2d2d2d', //Header Color after scroll
     base: '#121212', // Black
     secondary: '#e9e9e9', // Medium Gray
     tertiary: '#f3f3f3', // Light Gray
